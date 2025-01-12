@@ -1,0 +1,1 @@
+The "Jarir Bookstore App" project aims to develop a mobile application that includes creating a shopping experience for Jarir Bookstore users, a leading Saudi company in the field of selling books and educational electronics in the Middle East.
